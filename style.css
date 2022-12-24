@@ -1,0 +1,49 @@
+body {
+    font-size: 15pt;
+    background-color: #005190;
+    
+}
+
+    
+    
+.baslik {
+
+    color: blue;
+    font-family: Monospace;
+
+}
+.hileliuyg {
+    color: white;
+    background-color: #0090FF;
+    text-decoration: none;
+    padding: 13px 20px;
+    border-radius: 15px;
+    margin-left: 9px;
+    margin-bottom: 9px;
+    display: inline-block;
+    box-shadow: 15px;
+    font-family: Monospace;
+}
+.moduyg {
+    color: white;
+    background-color: #0090FF;
+    text-decoration: none;
+    padding: 13px 20px;
+    border-radius: 15px;
+    margin-left: 9px;
+    margin-bottom: 9px;
+    display: inline-block;
+       font-family: Monospace;
+    
+}
+.kaldiruyg {
+    color: white;
+    background-color: #0090FF;
+    text-decoration: none;
+    padding: 13px 20px;
+    border-radius: 15px;
+    margin-left: 9px;
+    margin-bottom: 9px;
+    display: inline-block;
+       font-family: Monospace;
+}
